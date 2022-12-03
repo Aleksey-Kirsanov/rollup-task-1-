@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "123",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "keywords": ["task-1"],
+  "author": "Kirsanov Aleksey",
+  "license": "ISC"
+}
